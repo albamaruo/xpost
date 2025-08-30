@@ -5,3 +5,4 @@ ct0...同様の場所に同じ名前（ct0）であります
 bearer...開発者モードを起動して手動で適当なツイートをしてnetwork内の”create tweet”の部分に”bearer token”があるのでそこをコピペ
 quertyid...上と同様でnetworkのcreate tweet内のrequests URLの
 https://x.com/i/api/graphql/ここの部分/CreateTweet
+https://www.youtube.com/watch?v=u_zzZlT5y_E
